@@ -219,7 +219,7 @@ header {
     padding-left: 20px;
     position: relative;
     p {
-      font-family: "Outer-Sans-bold";
+      font-family:"Outer-Sans-bold";
       font-size: 14px;
       line-height: 24px;
       color: #777376;
@@ -269,7 +269,7 @@ header {
         align-items: center;
         &:after {
           content: "";
-          background: url(../../images/Mask.png);
+          background: url(../images/Mask.png);
           background-size: contain;
           background-repeat: no-repeat;
           width: 28px;
