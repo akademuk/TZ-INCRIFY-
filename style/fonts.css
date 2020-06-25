@@ -1,20 +1,20 @@
 @font-face {
   font-family: "Outer-Sans-bold";
-  src: url("Tz/fonts/OuterSansBold.otf");
+  src: url("../fonts/OuterSansBold.otf");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Morganite-Bolt";
-  src: url("Tz/../fonts/Morganite-Bold.ttf");
+  src: url("../fonts/Morganite-Bold.ttf");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Morganite-Light";
-  src: url("Tz/../../fonts/Morganite-Light.ttf");
+  src: url("../fonts/Morganite-Light.ttf");
   font-weight: 250;
   font-style: normal;
 }
