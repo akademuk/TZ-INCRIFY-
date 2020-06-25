@@ -181,7 +181,7 @@ header {
       position: absolute;
       right: -20px;
       top: -20px;
-      background: url(../../images/Vector.png);
+      background: url(../images/Vector.png);
       background-size: contain;
       width: 25px;
       height: 23px;
@@ -225,7 +225,7 @@ header {
       color: #777376;
       &:nth-of-type(4) {
         content: "";
-        background: url(../../images/Mask.png);
+        background: url(../images/Mask.png);
         background-size: contain;
         background-repeat: no-repeat;
         width: 28px;
@@ -239,7 +239,7 @@ header {
           rgba(0, 0, 0, 0) 52.74%,
           rgba(17, 13, 13, 0.9) 100%
         ),
-        url(../../images/Img.jpg);
+        url(../images/Img.jpg);
     }
     &:nth-of-type(2) {
       background: linear-gradient(
@@ -247,7 +247,7 @@ header {
           rgba(0, 0, 0, 0) 52.74%,
           rgba(17, 13, 13, 0.9) 100%
         ),
-        url(../../images/Img2.jpg);
+        url(../images/Img2.jpg);
     }
     &:nth-of-type(3) {
       background: linear-gradient(
@@ -255,7 +255,7 @@ header {
           rgba(0, 0, 0, 0) 52.74%,
           rgba(17, 13, 13, 0.9) 100%
         ),
-        url(../../images/Img3.jpg);
+        url(../images/Img3.jpg);
     }
     &:nth-of-type(4) {
       background: linear-gradient(
@@ -263,13 +263,13 @@ header {
           rgba(0, 0, 0, 0) 52.74%,
           rgba(17, 13, 13, 0.9) 100%
         ),
-        url(../../images/Img4.jpg);
+        url(../images/Img4.jpg);
       p {
         display: flex;
         align-items: center;
         &:after {
           content: "";
-          background: url(../../images/Mask.png);
+          background: url(../images/Mask.png);
           background-size: contain;
           background-repeat: no-repeat;
           width: 28px;
@@ -284,14 +284,14 @@ header {
           rgba(0, 0, 0, 0) 52.74%,
           rgba(17, 13, 13, 0.9) 100%
         ),
-        url(../../images/Img5.jpg);
+        url(../images/Img5.jpg);
       margin-right: 0;
       p {
         display: flex;
         align-items: center;
         &:after {
           content: "";
-          background: url(../../images/Mask.png);
+          background: url(../images/Mask.png);
           background-size: contain;
           background-repeat: no-repeat;
           width: 28px;
@@ -389,7 +389,7 @@ h2 {
   left: -10px;
   width: 103%;
   display: flex;
-  background: url(../../images/Tape.png);
+  background: url(../images/Tape.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 20px;
