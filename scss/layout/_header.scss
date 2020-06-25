@@ -291,7 +291,7 @@ header {
         align-items: center;
         &:after {
           content: "";
-          background: url(images/Mask.png);
+          background: url(../images/Mask.png);
           background-size: contain;
           background-repeat: no-repeat;
           width: 28px;
@@ -389,7 +389,7 @@ h2 {
   left: -10px;
   width: 103%;
   display: flex;
-  background: url(images/Tape.png);
+  background: url(../images/Tape.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 20px;
